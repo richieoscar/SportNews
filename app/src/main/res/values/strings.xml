@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">SportNews</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_subtitles">
+        <item>Here is some Baseball news! </item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    //news
+    <string-array name="sport_info">
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+        <item><b>The Dodgers World Series-clinching 3-1 victory in Game 6 had a
+        little bit of everything, from Randy Arozarena capping his historic postseason with yet another
+        home run to World Series MVP Corey Seager knocking in the go-ahead run to Mookie Betts once again impacting the game with both his legs and his bat.
+            <p>But the moment that had players from across Major League Baseball(and even other professional sports) taking to
+                social media was Rays manager Kevin Cashs decision to remove starter Blake Snell after 5 1/3 innings and 73 pitches.Debate:
+                Any defense of pulling Snell in G6?While some fellow big league pitchers simply empathized with Snells frustrations,
+                many questioned Cash rationale for removing his starter -- perhaps none more than 2009 World Series champion and FOX broadcaster Alex Rodriguez.</p>
+        <p>Plenty of other pitchers seemed to agree. White Sox ace Lucas Giolito tweeted: "Can not believe they pull him here" with a skull emoji. Mariners left-hander Marco Gonzales added: "Damn why take him out?!?! Wow." His former teammate and impending free agent Taijuan Walker echoed a similar sentiment, tweeting: "73 pitches... I am hella mad for him" with a series of angry-face emojis. Zack Britton reaction? A simple shrug emoji.
+            Dallas Keuchel, who won the 2015 AL Cy Young Award and the 17 World Series with the Astros, tweeted: "How you going to pull your #1 starter in that situation? Smh."
+            Veteran reliever Jerry Blevins, who has 13 years of big league experience, also questioned the analytical side of the decision, tweeting: "Imagine you just lost the World Series on a decision to pull or leave-in your pitcher. You are sitting in front of a room full of reporters about to ask you why did it. Analytics say... or I thought... are your 2 options. Which is easier to defend?"
+            Cardinals ace Jack Flaherty simply let a GIF do the talking -- and Syndergaard replied with one of his own:</p></b>
+        </item>
+    </string-array>
+</resources>
