@@ -4,7 +4,7 @@
 
     <item
         android:id="@+id/item_share"
-        android:icon="@drawable/ic_send"
+        android:icon="@drawable/share_24px"
         android:title="Share"
         app:showAsAction="always" />
     <item

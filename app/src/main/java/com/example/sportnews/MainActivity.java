@@ -9,6 +9,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.res.TypedArray;
 import android.os.Bundle;
 
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
+
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -16,17 +18,26 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView recyclerView;
     SportAdapter adapter;
     ArrayList<Sport> sportData;
+    FloatingActionButton fab;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        setFab();
 
         setUpRecyclerView();
         initializeData();
         setItemTouchHelperWithRecyclerView();
 
 
+    }
+
+    private void setFab() {
+        fab = findViewById(R.id.floatingActionButton);
+        fab.setOnClickListener(v->{
+            initializeData();
+        });
     }
 
     private void setItemTouchHelperWithRecyclerView() {
