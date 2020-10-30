@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SportNews</string>
     <string name="title_placeholder">Title</string>
@@ -15,7 +16,7 @@
         <item>Cycling</item>
         <item>Golf</item>
         <item>Running</item>
-        <item>FootBall</item>
+        <item>Soccer</item>
         <item>Swimming</item>
         <item>Table Tennis</item>
         <item>Tennis</item>
@@ -29,7 +30,7 @@
         <item>Here is some Cycling news!</item>
         <item>Here is some Golf news!</item>
         <item>Here is some Running news!</item>
-        <item>Here is some FootBall news!</item>
+        <item>Here is some Soccer news!</item>
         <item>Here is some Swimming news!</item>
         <item>Here is some Table Tennis news!</item>
         <item>Here is some Tennis news!</item>

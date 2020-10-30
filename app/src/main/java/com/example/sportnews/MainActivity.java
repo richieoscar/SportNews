@@ -2,6 +2,7 @@ package com.example.sportnews;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -19,12 +20,15 @@ public class MainActivity extends AppCompatActivity {
     SportAdapter adapter;
     ArrayList<Sport> sportData;
     FloatingActionButton fab;
+    private int gridCount;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         setFab();
+
+        int gridCount = getResources().getInteger(R.integer.grid_column_count);
 
         setUpRecyclerView();
         initializeData();
@@ -41,9 +45,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setItemTouchHelperWithRecyclerView() {
+        int swipeDir;
+        if(gridCount>1)
+            swipeDir = 0;
+        else
+            swipeDir = ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT;
+
         ItemTouchHelper itemTouchHelper = new ItemTouchHelper(new ItemTouchHelper.SimpleCallback(ItemTouchHelper.LEFT|
                 ItemTouchHelper.RIGHT|ItemTouchHelper.UP|ItemTouchHelper.DOWN,
-                ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT) {
+                swipeDir) {
             @Override
             public boolean onMove(@NonNull RecyclerView recyclerView, @NonNull RecyclerView.ViewHolder viewHolder, @NonNull RecyclerView.ViewHolder target) {
 
@@ -67,10 +77,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setUpRecyclerView(){
+        gridCount = getResources().getInteger(R.integer.grid_column_count);
         recyclerView = findViewById(R.id.sportRv);
         sportData = new ArrayList<>();
         adapter = new SportAdapter(sportData, this);
-        recyclerView.setLayoutManager(new LinearLayoutManager(this));
+        recyclerView.setLayoutManager(new GridLayoutManager(this, gridCount));
         recyclerView.setAdapter(adapter);
 
 
